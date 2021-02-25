@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-  baseURL: 'https://ecommerce-admin-14045.herokuapp.com'
+  baseURL: 'https://ecommerce-pico.herokuapp.com'
 })
 
 export default instance
